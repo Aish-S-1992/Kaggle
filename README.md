@@ -1,2 +1,2 @@
 # Kaggle
-This is a repository for Kaggle Notebooks 
+This is a central repository for all Kaggle Notebooks
