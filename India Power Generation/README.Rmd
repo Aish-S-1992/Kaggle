@@ -1,1 +1,3 @@
-This is a Kaggle Project completed w
+Key feature of this Notebook are
+1. Clustering
+2. R Visualizations
